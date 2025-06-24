@@ -7,3 +7,4 @@ Repository for my studies in Python, generally containing small projects and som
 * A code for a Python program that calculates the weight of a person on different planets.
 * A fortune cookie using the terminal, one if/elif version and one vector version
 * A simple function calculator using a simple outuput
+* A function studie using vectors and stock analisys
